@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-tweets
+Fake news posted by ÿamous figures on social media spreads faster because people do not fact-check what is shared with them and blindly follow the crowd. Thus, people cannot differentiate between facts and online propaganda, which often leads to real-life consequences regardless of being good or bad. People need a transparent medium for fact-checking news to make informed decisions without contributing to a social problem.
